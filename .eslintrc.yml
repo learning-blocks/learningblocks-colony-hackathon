@@ -1,0 +1,5 @@
+parser: babel-eslint
+extends:
+  - prettier
+rules:
+  comma-dangle: off

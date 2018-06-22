@@ -1,0 +1,16 @@
+stages:
+  - build
+  - test
+
+build:
+  image: node:carbon
+  script:
+    - npm install -g yarn
+    - yarn global add truffle
+    - yarn global add ganache-cli
+    - yarn add run-with-testrpc
+    - ./node_modules/.bin/run-with-testrpc --port 8545 'truffle test'
+
+test:
+  script:
+    - ./node_modules/.bin/run-with-testrpc --port 8545 'truffle test'
