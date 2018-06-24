@@ -32,7 +32,7 @@ Enter into the folder:
 Open up a new terminal window in the same folder and run
 `yarn deploy-colony-contracts`
 
-### Step 4: Bootstrap the colonyNetwork with our own colony and some sample data
+### Step 4: Bootstrap the colonyNetwork with our own colony and sample data
 `yarn bootstrap-colony`
 
 ### Step 5: Deploy the Learning Blocks contracts
@@ -43,8 +43,9 @@ Open up a new terminal window in the same folder and run
 `yarn run start`
 
 ### Step 7: Import the den into Metamask
-Restore a den in Metamask using the mnemonic seed phrase : `sense reduce shaft skin void genius bullet solve code trim anxiety month`
- Enter a password of your choice.
+Restore a den in Metamask using the mnemonic seed phrase: `sense reduce shaft skin void genius bullet solve code trim anxiety month`
+
+Enter a password of your choice.
 
 ### Step 8: Open the DApp front end and start interacting
 In the same browser instance open the link:
