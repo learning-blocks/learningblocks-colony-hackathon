@@ -1,4 +1,4 @@
-This is the repository for the Learning Blocks DApp Colony Hackathon submission.
+This is the repository for the Learning Blocks Colony Hackathon submission.
 
 # Development setup
 ## Global Prerequisites
@@ -53,11 +53,11 @@ In the same browser instance open the link:
 
 
 # Colony Hackathon Notes
-## Concept
-We are connecting Learning Block courses and certificates to global colony skills.
+## Concept for a Learning Blocks Colony
+We are connecting Learning Blocks education certificates to global colony skills.
 Whenever students complete a course and earn their certificates, they also earn reputation in the MetaColony that is transferable to any other colony.
 
-Please [read here for a more comprehensive project description](https://github.com/learning-blocks/colonyHackathon/blob/master/submissions/Learning%20Blocks.md).
+Please [read here for a more comprehensive project description](https://github.com/learning-blocks/colonyHackathon/blob/master/submissions/LearningBlocks.md).
 
 ## Notes
 Full Metamask integration is planned for the future, but for the purpose of this demo the accounts to be used must be fixed.
@@ -79,7 +79,7 @@ Permissions are related to the currently selected MetaMask account in the browse
 
 ## User Flows
 
-### Issuing of Learning Blocks courses and certificates
+### Issuing of Learning Blocks certificates
 
 ### Admin and teacher/issuer user flows
 A Learning Blocks admin goes to [http://localhost:3000/admin](http://localhost:3000/admin) and creates a new course by filling out the form. The last drop down will associate this course with a global colony skill.
