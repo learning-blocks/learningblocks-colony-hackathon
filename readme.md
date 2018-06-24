@@ -57,7 +57,7 @@ In the same browser instance open the link:
 We are connecting Learning Block courses and certificates to global colony skills.
 Whenever students complete a course and earn their certificates, they also earn reputation in the MetaColony that is transferable to any other colony.
 
-Please read here for a more comprehensive project description: https://github.com/learning-blocks/colonyHackathon/blob/master/submissions/Learning%20Blocks.md.
+Please [read here for a more comprehensive project description](https://github.com/learning-blocks/colonyHackathon/blob/master/submissions/Learning%20Blocks.md).
 
 ## Notes
 Full Metamask integration is planned for the future, but for the purpose of this demo the accounts to be used must be fixed.
